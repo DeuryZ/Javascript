@@ -35,3 +35,10 @@ promo(60)
 promo(-50)
 
 console.log() 
+var user={
+    name:"Misael",
+    age:22,
+    isAlive:true,
+    hobbies:["lol",23,false],
+    
+}
