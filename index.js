@@ -34,4 +34,4 @@ promo(22)
 promo(60)
 promo(-50)
 
-console.log()
+console.log() 
